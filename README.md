@@ -1,11 +1,12 @@
 # Codepath-Hu-Dropbox
 
 
-##Codepath Week 1 Assignment - basic prototyping and navigation
+##Codepath Week 1 Assignment
+#### Basic prototyping and navigation
 
-Hours: 8+
+- Hours: 8+
 
-Status: All required stories and 2 optional stories. (did not do favorites)
+- Status: All required stories and 2 optional stories. (did not do favorites)
 
 ![GIF Walkthrough](/assets/hu-dropbox-overview.gif)
 

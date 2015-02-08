@@ -31,4 +31,6 @@ Using Xcode to implement the Dropbox NUX flow with the following goals:
 
 –––
 
-GIF created with Licecap http://www.cockos.com/licecap/
+Created with the help from the good folks at Codepath and mentors. In addition thanks for Mark @ Thoughtbot. 
+
+GIF > Licecap http://www.cockos.com/licecap/

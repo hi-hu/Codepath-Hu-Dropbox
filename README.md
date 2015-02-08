@@ -1,8 +1,5 @@
-# Codepath-Hu-Dropbox
-
-
-##Codepath Week 1 Assignment
-#### Basic prototyping and navigation
+# Codepath Week 1 Assignment
+##### Basic prototyping and navigation
 
 - Hours: 8+
 

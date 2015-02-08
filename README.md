@@ -5,6 +5,7 @@ Codepath Week 1 Assignment - basic prototyping and navigation
 ––
 
 Hours: 8+
+
 Status: All required stories and 2 optional stories. (did not do favorites)
 
 ![GIF Walkthrough](/assets/hu-dropbox-overview.gif)
@@ -29,4 +30,5 @@ Using Xcode to implement the Dropbox NUX flow with the following goals:
 * [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
 
 –––
+
 GIF created with Licecap http://www.cockos.com/licecap/

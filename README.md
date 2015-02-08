@@ -7,7 +7,7 @@
 ![GIF Walkthrough](/assets/hu-dropbox-overview.gif)
 
 
-### Summary
+#### Requirements
 Using Xcode to implement the Dropbox NUX flow with the following goals:
 
 * [x] User can tap through the 3 welcome screens.
@@ -24,8 +24,9 @@ Using Xcode to implement the Dropbox NUX flow with the following goals:
 * [x] Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 * [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
 
-### Acknowledegment
-
+#### Acknowledegment
 - Created with the help from the good folks at Codepath and mentors. In addition thanks for Mark @ Thoughtbot. 
-
 - GIF > Licecap http://www.cockos.com/licecap/
+
+#### License
+[MIT](./LICENSE).

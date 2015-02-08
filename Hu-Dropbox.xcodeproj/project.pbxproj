@@ -7,12 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B81E24361A8492AA0037D438 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81E24351A8492AA0037D438 /* SignInViewController.swift */; };
+		B81E24381A8495540037D438 /* TroubleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81E24371A8495540037D438 /* TroubleViewController.swift */; };
+		B81E243A1A8498FA0037D438 /* PhotosScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81E24391A8498FA0037D438 /* PhotosScrollViewController.swift */; };
+		B82A035A1A86D91E00C88C7D /* WelcomeSwipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82A03591A86D91E00C88C7D /* WelcomeSwipeViewController.swift */; };
+		B82A035C1A86DDCA00C88C7D /* SignInSequeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82A035B1A86DDCA00C88C7D /* SignInSequeViewController.swift */; };
+		B854CF091A86B90800C7A50E /* CreateAccountRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B854CF081A86B90800C7A50E /* CreateAccountRootViewController.swift */; };
 		B8FBFEC41A81E7050015B4BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FBFEC31A81E7050015B4BA /* AppDelegate.swift */; };
 		B8FBFEC61A81E7050015B4BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FBFEC51A81E7050015B4BA /* ViewController.swift */; };
 		B8FBFEC91A81E7050015B4BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8FBFEC71A81E7050015B4BA /* Main.storyboard */; };
 		B8FBFECB1A81E7050015B4BA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8FBFECA1A81E7050015B4BA /* Images.xcassets */; };
 		B8FBFECE1A81E7050015B4BA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B8FBFECC1A81E7050015B4BA /* LaunchScreen.xib */; };
 		B8FBFEDA1A81E7050015B4BA /* Hu_DropboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FBFED91A81E7050015B4BA /* Hu_DropboxTests.swift */; };
+		B8FBFEEB1A8206240015B4BA /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FBFEEA1A8206240015B4BA /* SignUpViewController.swift */; };
+		B8FBFEED1A8206600015B4BA /* NewAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FBFEEC1A8206600015B4BA /* NewAccountViewController.swift */; };
+		B8FBFEEF1A820F760015B4BA /* TermsScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FBFEEE1A820F760015B4BA /* TermsScrollViewController.swift */; };
+		B8FBFEF71A822BBA0015B4BA /* SettingsScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8FBFEF61A822BBA0015B4BA /* SettingsScrollViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +36,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B81E24351A8492AA0037D438 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		B81E24371A8495540037D438 /* TroubleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TroubleViewController.swift; sourceTree = "<group>"; };
+		B81E24391A8498FA0037D438 /* PhotosScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosScrollViewController.swift; sourceTree = "<group>"; };
+		B82A03591A86D91E00C88C7D /* WelcomeSwipeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeSwipeViewController.swift; sourceTree = "<group>"; };
+		B82A035B1A86DDCA00C88C7D /* SignInSequeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInSequeViewController.swift; sourceTree = "<group>"; };
+		B854CF081A86B90800C7A50E /* CreateAccountRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountRootViewController.swift; sourceTree = "<group>"; };
 		B8FBFEBE1A81E7050015B4BA /* Hu-Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hu-Dropbox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8FBFEC21A81E7050015B4BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B8FBFEC31A81E7050015B4BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +52,10 @@
 		B8FBFED31A81E7050015B4BA /* Hu-DropboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hu-DropboxTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8FBFED81A81E7050015B4BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B8FBFED91A81E7050015B4BA /* Hu_DropboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hu_DropboxTests.swift; sourceTree = "<group>"; };
+		B8FBFEEA1A8206240015B4BA /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		B8FBFEEC1A8206600015B4BA /* NewAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewAccountViewController.swift; sourceTree = "<group>"; };
+		B8FBFEEE1A820F760015B4BA /* TermsScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsScrollViewController.swift; sourceTree = "<group>"; };
+		B8FBFEF61A822BBA0015B4BA /* SettingsScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsScrollViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,8 +98,8 @@
 			isa = PBXGroup;
 			children = (
 				B8FBFEC31A81E7050015B4BA /* AppDelegate.swift */,
-				B8FBFEC51A81E7050015B4BA /* ViewController.swift */,
 				B8FBFEC71A81E7050015B4BA /* Main.storyboard */,
+				B8FBFEE71A82057A0015B4BA /* View Controllers */,
 				B8FBFECA1A81E7050015B4BA /* Images.xcassets */,
 				B8FBFECC1A81E7050015B4BA /* LaunchScreen.xib */,
 				B8FBFEC11A81E7050015B4BA /* Supporting Files */,
@@ -110,6 +130,24 @@
 				B8FBFED81A81E7050015B4BA /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B8FBFEE71A82057A0015B4BA /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				B8FBFEC51A81E7050015B4BA /* ViewController.swift */,
+				B8FBFEEC1A8206600015B4BA /* NewAccountViewController.swift */,
+				B8FBFEEA1A8206240015B4BA /* SignUpViewController.swift */,
+				B8FBFEEE1A820F760015B4BA /* TermsScrollViewController.swift */,
+				B8FBFEF61A822BBA0015B4BA /* SettingsScrollViewController.swift */,
+				B81E24351A8492AA0037D438 /* SignInViewController.swift */,
+				B81E24371A8495540037D438 /* TroubleViewController.swift */,
+				B81E24391A8498FA0037D438 /* PhotosScrollViewController.swift */,
+				B854CF081A86B90800C7A50E /* CreateAccountRootViewController.swift */,
+				B82A03591A86D91E00C88C7D /* WelcomeSwipeViewController.swift */,
+				B82A035B1A86DDCA00C88C7D /* SignInSequeViewController.swift */,
+			);
+			name = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,8 +250,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B82A035A1A86D91E00C88C7D /* WelcomeSwipeViewController.swift in Sources */,
+				B854CF091A86B90800C7A50E /* CreateAccountRootViewController.swift in Sources */,
+				B81E24361A8492AA0037D438 /* SignInViewController.swift in Sources */,
+				B8FBFEEB1A8206240015B4BA /* SignUpViewController.swift in Sources */,
+				B82A035C1A86DDCA00C88C7D /* SignInSequeViewController.swift in Sources */,
+				B81E243A1A8498FA0037D438 /* PhotosScrollViewController.swift in Sources */,
+				B81E24381A8495540037D438 /* TroubleViewController.swift in Sources */,
 				B8FBFEC61A81E7050015B4BA /* ViewController.swift in Sources */,
 				B8FBFEC41A81E7050015B4BA /* AppDelegate.swift in Sources */,
+				B8FBFEED1A8206600015B4BA /* NewAccountViewController.swift in Sources */,
+				B8FBFEF71A822BBA0015B4BA /* SettingsScrollViewController.swift in Sources */,
+				B8FBFEEF1A820F760015B4BA /* TermsScrollViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +453,7 @@
 				B8FBFEDF1A81E7050015B4BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B8FBFEE01A81E7050015B4BA /* Build configuration list for PBXNativeTarget "Hu-DropboxTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +462,7 @@
 				B8FBFEE21A81E7050015B4BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

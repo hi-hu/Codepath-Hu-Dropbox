@@ -25,7 +25,7 @@ Using Xcode to implement the Dropbox NUX flow with the following goals:
 * [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
 
 #### Acknowledegment
-- Created with the help from the good folks at Codepath and mentors. In addition thanks for Mark @ Thoughtbot. 
+- Created with the help from the good folks at Codepath and mentors. In addition, thanks to Mark @ Thoughtbot for volunteering his time.
 - GIF > Licecap http://www.cockos.com/licecap/
 
 #### License

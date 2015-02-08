@@ -7,7 +7,7 @@ Codepath Week 1 Assignment - basic prototyping and navigation
 Hours: 8+
 Status: All required stories and 2 optional stories. (did not do favorites)
 
-![Video Walkthrough](hu-dropbox-overview.gif)
+![Video Walkthrough](~/assets/hu-dropbox-overview.gif)
 
 
 ––

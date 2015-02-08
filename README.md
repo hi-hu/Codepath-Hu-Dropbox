@@ -29,4 +29,4 @@ Using Xcode to implement the Dropbox NUX flow with the following goals:
 - GIF > Licecap http://www.cockos.com/licecap/
 
 #### License
-[MIT](./LICENSE).
+[MIT](LICENSE.md).

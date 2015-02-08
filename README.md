@@ -1,8 +1,7 @@
 # Codepath-Hu-Dropbox
 
 
-Codepath Week 1 Assignment - basic prototyping and navigation
-––
+##Codepath Week 1 Assignment - basic prototyping and navigation
 
 Hours: 8+
 
@@ -11,8 +10,7 @@ Status: All required stories and 2 optional stories. (did not do favorites)
 ![GIF Walkthrough](/assets/hu-dropbox-overview.gif)
 
 
-––
-
+## Summary
 Using Xcode to implement the Dropbox NUX flow with the following goals:
 
 * [x] User can tap through the 3 welcome screens.
@@ -29,8 +27,8 @@ Using Xcode to implement the Dropbox NUX flow with the following goals:
 * [x] Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 * [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
 
-–––
+## Acknowledegment
 
-Created with the help from the good folks at Codepath and mentors. In addition thanks for Mark @ Thoughtbot. 
+- Created with the help from the good folks at Codepath and mentors. In addition thanks for Mark @ Thoughtbot. 
 
-GIF > Licecap http://www.cockos.com/licecap/
+- GIF > Licecap http://www.cockos.com/licecap/
